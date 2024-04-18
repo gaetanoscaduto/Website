@@ -1,14 +1,10 @@
 ---
 title: "CV"
-cv:
-  pdf: "cv.pdf"
 ---
 
-[Here](https://github.com/gaetanoscaduto/cv/tree/main/cv_pdf/cv.pdf) you can find my academic CV at its latest update.
-
-<object data="/cv/cv_pdf/cv.pdf" type="application/pdf" width="800px" height="800px">
-<embed src="/cv/cv_pdf/cv.pdf">
-This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/gaetanoscaduto/cv/tree/main/cv_pdf/cv.pdf">Download PDF</a>.</p>
+<object data="cv.pdf" type="application/pdf" width="800px" height="800px">
+<embed src="cv.pdf">
+Your browser does not support PDFs embedded in this website. You can still view my cv at <a href="https://github.com/gaetanoscaduto/cv/tree/main/cv_pdf/cv.pdf">this link</a>.</p>
 </embed>
 </object>
 
