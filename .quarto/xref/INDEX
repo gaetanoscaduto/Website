@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "6c70b849"
+  },
+  "about.qmd": {
+    "about.html": "1a15c567"
+  },
+  "bio.qmd": {
+    "bio.html": "7a48623f"
+  },
+  "cv.qmd": {
+    "cv.html": "32d0f95c"
+  },
+  "publications.qmd": {
+    "publications.html": "c4e3ff69"
+  },
+  "teaching.qmd": {
+    "teaching.html": "72a851ed"
+  },
+  "contacts.qmd": {
+    "contacts.html": "bb6482ce"
+  },
+  "research.qmd": {
+    "research.html": "02604839"
+  },
+  "beyond.qmd": {
+    "beyond.html": "c29c6cc0"
+  }
+}
