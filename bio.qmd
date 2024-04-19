@@ -18,7 +18,7 @@ But then I got bored of doing maths for maths' sake. I enrolled in a Master's de
 
 I am currently enrolled in the PhD program of **Analysis of Social and Economic Processes** (ASEP) at the University of Milan-Biccocca. I am working in the fields of political sociology and political psychology. I am currently on a research stay in Antwerp (BE), working with the "[Media, Movement, and Politics (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/)" research group, a wonderful bunch of people who welcomed me warmly and created an incredibly stimulating environment to do research.
 
-![The entrance to the Antwerp train station, one of its most famous landmarks](images/clipboard-3574034271.png)
+![The entrance to the Antwerp train station, one of its most famous landmarks](images/clipboard-3574034271.png){width="323"}
 
 Through the years I have also worked outside academia, in the **political communication and marketing** fields, managing social media pages and media relations for political organizations and working for electoral campaigns as deputy campaign coordinator and junior researcher for [Social Changes, Inc](https://www.social-changes.com/). during the Italian general political elections of September 2022 and the elections for city council in June 2022.
 
