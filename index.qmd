@@ -2,16 +2,24 @@
 title: "Welcome!"
 ---
 
+<style>
+  body {
+  background-image: url("background.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
+
 ::: columns
-::: {.column width="40%"}
+::: {.column width="25%"}
 ![](images/286213066_5145122178874519_2871984436336791330_n.jpg)
 :::
 
-::: {.column width="60%"}
+::: {.column width="75%"}
 -   Hi! My name is Gaetano Scaduto and this is my personal website.
 
--   I am a PhD Student at the University of Milan-Bicocca. I am researching in the fields of political communication, political psychology, and related.
+-   I am a PhD Student researching in the fields of political communication, political psychology, and related. In my work, I specialize in quantitative methods, computational methods, and survey experiments.
 
--   In this site you can find information about myself and my work, materials and code I produced for teaching and presentations, academic and non-academic articles, and other random stuff I decide to put here. 
 :::
 :::
