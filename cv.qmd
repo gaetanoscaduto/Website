@@ -1,6 +1,22 @@
 ---
 title: "CV"
 ---
+```{=html}
+<style>
+  body {
+  background-image: url("/backgrounds/background_ag1.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+.text-background {
+    background-color: rgba(256, 256, 256, 0.6); 
+    color: black; /* White text for contrast */
+    padding: 5px 10px; /* Padding around text */
+    display: inline-block; /* Ensures the background only takes up necessary space */
+}
+</style>
+```
 
 <p><i class="fas fa-download pr-1 fa-fw"></i><a href=cv.pdf target=_blank> Click here to download my cv</a>.</p>
 

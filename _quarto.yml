@@ -15,10 +15,13 @@ website:
       - beyond.qmd 
       - contacts.qmd
     tools: 
+      - icon: github
+        href: https://github.com/gaetanoscaduto
       - icon: linkedin
         href: https://www.linkedin.com/in/gaetano-scaduto-92b6981ba/
       - icon: scholar
         href: https://scholar.google.com/citations?user=CjeVWvQAAAAJ&hl=it&oi=ao
+      
         
  
       
