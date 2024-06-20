@@ -25,5 +25,8 @@
   },
   "beyond.qmd": {
     "beyond.html": "c29c6cc0"
+  },
+  "cv/cv_pdf/cv.Rmd": {
+    "cv.html": "b448910f"
   }
 }
