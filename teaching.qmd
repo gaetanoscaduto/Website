@@ -2,10 +2,15 @@
 title: "Teaching"
 ---
 
--   I am currently a teaching assistant in the course of Public Policies and in the course of Mathematics at the University of Milan-Bicocca (BA in Organization Science). In the latter, I teach first-year students basic calculus, from equations to the full study of functions, plus an introduction to statistics.
+-   I am currently a teaching assistant (tutor) in the course of Public Policies and in the course of Mathematics at the University of Milan-Bicocca (BA in Organization Science). In the latter, I teach first-year students basic calculus, from equations to the full study of functions, plus an introduction to statistics.
 
-Here you can find the teaching materials that I produced so far for the course in Public Policies.
+Here you can find the teaching materials that I produced so far.
 
+-   A brief and smooth [Introduction to R](https://github.com/gaetanoscaduto/Laboratorio-R) course (in Italian).
+
+```{=html}
+<!-- -->
+```
 -   In autumn 2023 I held two classes.
 
     -   In one, I gave the students a practical introduction to the statistical software R for the analysis of electoral data. The class was aimed at people enrolled in the BA in "Organization Science" at the University of Milan-Bicocca, who had no previous experience neither with any statistical software nor data analysis. They had taken an introductory class in statistics and quantitative methods. You can find the teaching materials related to this class [here](https://github.com/gaetanoscaduto/teaching/tree/main/introduzioneR).
