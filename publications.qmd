@@ -74,9 +74,9 @@ If your institution does not provide access to the papers, send me an email! I'm
 
 ## Other stuff I wrote
 
--   [My MA thesis](https://github.com/gaetanoscaduto/Papers-Others/blob/Papers/TESI%20_merged.pdf)! (In italian) "Un paese di musichette mentre fuori c'è la morte? Indagine sulla comunicazione dei politici italiani su Instagram durante la pandemia di Covid-19". Thesis supervisor: prof. Moreno Mancosu.
+-   [My MA thesis](https://github.com/gaetanoscaduto/other-stuff/blob/main/TESI%20_merged.pdf)! (In italian) "Un paese di musichette mentre fuori c'è la morte? Indagine sulla comunicazione dei politici italiani su Instagram durante la pandemia di Covid-19". Thesis supervisor: prof. Moreno Mancosu.
 
--   [My BA thesis](https://github.com/gaetanoscaduto/Papers-Others/blob/Papers/Tesi%20triennale.pdf)! (In italian) "Teoria della scelta sociale". Thesis supervisor: prof. Giacomo Como.
+-   [My BA thesis](https://github.com/gaetanoscaduto/other-stuff/blob/main/Tesi%20bachelor.pdf)! (In italian) "Teoria della scelta sociale". Thesis supervisor: prof. Giacomo Como.
 
 -   You can find several light-reading articles about politics and other stuff on the [personal blog](https://nienteditwee.blogspot.com/) \[in Italian\] I used to write on a couple of years ago. Among those you'll find...
 

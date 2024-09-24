@@ -18,9 +18,7 @@ title: "Contacts"
 }
 </style>
 ```
-
 ::: text-background
-
 Here are my contacts:
 
 -   For matters related to my job, you can write me an email at the following address: gaetano.scaduto\@unimib.it
@@ -31,4 +29,5 @@ Here are my contacts:
 
 -   You can follow me on ResearchGate [here](https://www.researchgate.net/profile/Gaetano-Scaduto).
 
-::: 
+-   You can follow me on GitHub [here](https://github.com/gaetanoscaduto).
+:::
