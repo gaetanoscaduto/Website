@@ -27,11 +27,11 @@ title: "Welcome!"
 ::: text-background
 Hi! My name is Gaetano Scaduto and this is my personal website.
 
-I am currently a PhD Student researching in the fields of political communication. I use my professional skills to study society and politics through **quantitative** and **computational** methods.
+I am currently a PhD Student researching in the field of political communication. I use my professional skills to study society and politics through **quantitative** and **computational** methods.
 
 I have also worked in **political marketing**, contributing to multiple national electoral campaigns in Italy.
 
-I am currently **open for work**, both in industry and academia, and I am particularly interested in positions involving **survey research, data analysis**, and/or **political marketing**. If you want to discuss job oportunities, please get in touch on gaetanoscaduto1999\@gmail.com
+I am currently **open for work**, and I am particularly interested in positions involving **survey research, data analysis**, and/or **political marketing**. If you want to discuss job oportunities, please get in touch on gaetanoscaduto1999\@gmail.com
 
 In this site you can find my CV, bio, publications, teaching materials and other random stuff I decide to put here ;)
 :::
