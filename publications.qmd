@@ -10,29 +10,35 @@ If you do not have access, you can click on the download button below each publi
 
 ## Published papers
 
+-   [Scaduto, G., & Negri, F. (2024)](https://doi.org/10. 1080/13608746.2024.2411539). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. South European Society and Politics, 1–30.
+
+    -   Awarded "Best paper by a Junior Researcher" by the Italian Political Communication Association (ASSOCOMPOL) in 2024.
+
+<!-- -->
+
 -   [Mancosu, M., Scaduto, G. (2024).](https://www.tandfonline.com/doi/full/10.1080/15205436.2024.2351980)"Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders during the Covid-19 Pandemic". Mass Communication & Society. *Mass Communication and Society*, 1-26.
 
     -   My first paper, but on steroids.
 
-        <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Mancosu_Scaduto_2024.pdf target=_blank> Click here to download</a>.</p>
+<!--         <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Mancosu_Scaduto_2024.pdf target=_blank> Click here to download</a>.</p> -->
 
 -   [Bertero, A, Scaduto, G](https://oaj.fupress.net/index.php/qoe/article/view/14224). (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies QOE-IJES.
 
     -   A paper that deals with analyzing the 2022 electoral campaign in Italy from a political communication POV.
 
-        <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Bertero_Scaduto_2023.pdf target=_blank> Click here to download</a>.</p>
+<!--         <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Bertero_Scaduto_2023.pdf target=_blank> Click here to download</a>.</p> -->
 
 -   [Scaduto, G., & Mancosu, M. (2022).](https://www.rivisteweb.it/doi/10.3270/104851) Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. *Comunicazione politica*, *23*(2), 255-276.
 
     -   The very first paper I ever worked on. Tries to investigate one simple question: do political leader smile less on Instagram while there are more deaths by Covid? And are there differences between populist and non-populist?
 
-        <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Scaduto_Mancosu_2022.pdf target=_blank> Click here to download</a>.</p>
+<!--         <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Scaduto_Mancosu_2022.pdf target=_blank> Click here to download</a>.</p> -->
 
 -   [Scaduto, G. (2022)](https://www.rivisteweb.it/doi/10.1424/104525). Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. *Polis*, *36*(2), 315-332.
 
     -   Dealing with IA and machine learning before ChatGTP, Midjourneys and all those guys were cool.
 
-        <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Scaduto_2022.pdf target=_blank> Click here to download</a>.</p>
+<!--         <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Scaduto_2022.pdf target=_blank> Click here to download</a>.</p> -->
 
 ## Working papers/Under review
 
