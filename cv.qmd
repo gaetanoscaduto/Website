@@ -18,7 +18,7 @@ title: "CV"
 }
 </style>
 ```
-<p><i class="fas fa-download pr-1 fa-fw"></i><a href=cv.pdf target=_blank> Click here to download my Academic CV</a>.</p>
+<p><i class="fas fa-download pr-1 fa-fw"></i><a href=academic_cv.pdf target=_blank> Click here to download my Academic CV</a>.</p>
 
 <p><i class="fas fa-download pr-1 fa-fw"></i><a href=industry_cv.pdf target=_blank> Click here to download my Industry CV</a>.</p>
 
