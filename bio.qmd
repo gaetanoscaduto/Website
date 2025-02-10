@@ -18,10 +18,11 @@ title: "Bio"
 }
 </style>
 ```
+
 ::: text-background
 **Last updated: April 2024**
 
-I was born on February 25th, 1999 in Agrigento, a small city in Sicily*.* The very same night, [Fabio Fazio interviewed Mikhail Gorbachev at the Festival di Sanremo](https://www.youtube.com/watch?v=UZh8m3KygBY). I was destined for studying the relationship between politics and culture!
+I was born on February 25th, 1999 in Agrigento, a small city in Sicily. The very same night, [Fabio Fazio interviewed Mikhail Gorbachev at the Festival di Sanremo](https://www.youtube.com/watch?v=UZh8m3KygBY). 
 
 ![The Concordia Temple, the most famous landmark in my hometown (also a UNESCO world heritage site)](Tempio-della-Concordia-930x620.jpg){fig-align="center" width="323"}
 
@@ -33,7 +34,7 @@ I attended the "Empedocle" classical high school in Agrigento, wanting to be a w
 
 But then I got bored of doing maths for maths' sake. I enrolled in a Master's degree in **Political and Public Communication** at the University of Turin where I graduated in 2022. At that point, I felt like I found my true passion: studying politics and society through quantitative methods.
 
-I am currently enrolled in the PhD program of **Analysis of Social and Economic Processes** (ASEP) at the University of Milan-Biccocca. I am working in the fields of political sociology and political psychology. I am currently on a research stay in Antwerp (BE), working with the "[Media, Movement, and Politics (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/)" research group, a wonderful bunch of people who welcomed me warmly and created an incredibly stimulating environment to do research.
+I am currently enrolled in the PhD program of **Analysis of Social and Economic Processes** (ASEP) at the University of Milan-Biccocca. I am working in the fields of political sociology and political psychology. I am currently living in Antwerp (BE), working with the "[Media, Movement, and Politics (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/)" research group, a wonderful bunch of people who welcomed me warmly and created an incredibly stimulating environment to do research. It started as a research stay, but it became my life. 
 
 ![The entrance to the Antwerp train station, one of its most famous landmarks](images/clipboard-3574034271.png){width="323"}
 
