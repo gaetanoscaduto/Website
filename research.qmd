@@ -2,6 +2,25 @@
 title: "My Research & Me"
 ---
 
+```{=html}
+<style>
+  body {
+  background-image: url("/backgrounds/background_ag1.jpeg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+.text-background {
+    background-color: rgba(256, 256, 256, 0.8); 
+    color: black; /* White text for contrast */
+    padding: 5px 10px; /* Padding around text */
+    display: inline-block; /* Ensures the background only takes up necessary space */
+}
+</style>
+```
+
+::: text-background
 ## It all started at the canteen...
 
 ![I still ask myself if this picture really makes sense](images/250454928_1277070772812659_5201918329899356277_n-01.jpg){fig-align="center" width="315"}
@@ -51,3 +70,5 @@ If no student ever pushed for having a more vegan menu at UniTo's canteen, it me
 What a freaking game changer: the knowledge (or even the presumed knowledge) of the political preferences of the student body were translated into assumed lifestyle preferences, and our reality (more precisely, my lunch) was bent according to this perception.
 
 I thought this was enough to choose to dedicate my entire career to this: shedding light of the political inferences from apolitical cues, the apolitical inferences from political cues, and political stereotypes, and political compasses, and political caricatures, their consequences, causes, related aspects, so on and so forth.
+
+:::

@@ -5,7 +5,7 @@ title: "Contacts"
 ```{=html}
 <style>
   body {
-  background-image: url("/backgrounds/background_ag2.jpeg");
+  background-image: url("/backgrounds/background_ag1.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 }

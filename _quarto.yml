@@ -12,6 +12,7 @@ website:
       - research.qmd
       - publications.qmd
       - teaching.qmd
+      - In the media.qmd
       - beyond.qmd 
       - contacts.qmd
     tools: 

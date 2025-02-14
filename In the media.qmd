@@ -1,0 +1,43 @@
+---
+title: "In the media"
+---
+
+```{=html}
+<style>
+  body {
+  background-image: url("/backgrounds/background_ag1.jpeg");
+   background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+.text-background {
+    background-color: rgba(256, 256, 256, 0.8); 
+    color: black; /* White text for contrast */
+    padding: 5px 10px; /* Padding around text */
+    display: inline-block; /* Ensures the background only takes up necessary space */
+}
+</style>
+```
+
+
+::: text-background
+
+In this section, you can find occurrences where my research has been featured in the media
+
+Radio
+
+-   [Buongiorno InBlu 23/01/2025](https://www.radioinblu.it/streaming/?vid=0_4i5p4bw4), Radio InBlu 2000.
+-   [Buongiorno InBlu 25/10/2024](https://www.radioinblu.it/streaming/?vid=0_onrwcs4r), Radio InBlu 2000.
+
+Online media:
+
+-   "[Talk-show politici, lo specchio di un’Italia polarizzata](https://lavoce.info/archives/106804/talk-show-politici-lo-specchio-di-unitalia-polarizzata/)" (with Negri F., in Italian)**.** LaVoce.info. January 2025.
+
+-   '["Ze zijn niet zoals wij": hoe kiezers kijken naar andere kiezers](https://www.sampol.be/2024/12/ze-zijn-niet-zoals-wij-hoe-kiezers-kijken-naar-andere-kiezers)' (with Tsoulou-Malakoudi, A. & Goovaerts, I., in Dutch). Samenleving & Politiek. December 2024.
+
+-   "[What your menu choice says about your politics](https://theloop.ecpr.eu/what-your-menu-choice-says-about-your-politics/)" (with Negri F.). The Loop. October 2024.
+
+-   "[Dimmi cosa mangi e ti dirò che partito voti](https://lavoce.info/archives/106171/dimmi-cosa-mangi-e-ti-diro-che-partito-voti/)" (with Negri F., in Italian)**.** LaVoce.info. October 2024.
+
+::: 

@@ -2,6 +2,26 @@
 title: "Beyond work"
 ---
 
+```{=html}
+<style>
+  body {
+  background-image: url("/backgrounds/background_ag1.jpeg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+.text-background {
+    background-color: rgba(256, 256, 256, 0.8); 
+    color: black; /* White text for contrast */
+    padding: 5px 10px; /* Padding around text */
+    display: inline-block; /* Ensures the background only takes up necessary space */
+}
+</style>
+```
+
+::: text-background
+
 I think life is kind of worthless without good music and movies. Therefore, here I share some of the works of art I am more enthusiastic about. Because I think these things tell about me as much as (maybe more) any research I have done so far. Researching is fun, teaching is fun, but art gives you goosebumps. So here in what follows a selection of my favorite musical albums, movies, TV shows, and the like.
 
 ## A selection of my favorite musical albums
@@ -92,4 +112,6 @@ The first movie that got me passionate about American politics, which then got m
 
 ![](https://pad.mymovies.it/filmclub/2013/12/076/coverlg_home.jpg){width="376"}
 
-A little bit of a cliché choice for someone who works in academia in Italy, but I have been a huge fan of this movie from way before I even imagined this career path.
+A little bit of a cliché choice for someonefor an Italian working in academia, but I have been a huge fan of this movie from way before I decided to doo a Ph.D.
+
+::: 
