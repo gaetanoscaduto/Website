@@ -21,7 +21,7 @@ title: "Welcome!"
 ```
 
 ::: text-background
-Hi! My name is Gaetano Scaduto, I am 25 years old, and this is my personal website.
+Hi! My name is Gaetano Scaduto, I am 26 years old and this is my personal website.
 
 I am currently a PhD Student researching in the field of political communication. I use my professional skills to study society and politics through **quantitative** and **computational** methods.
 

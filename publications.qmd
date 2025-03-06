@@ -21,7 +21,6 @@ title: "Publications"
 ```
 
 ::: text-background
-
 Here you can find the list of the papers I worked on. If you need further info, just reach out and I'll be happy to share more! You can also find the most updated list of my publications on [my profile in google scholar](https://scholar.google.it/citations?user=g52GJngAAAAJ&hl=it&oi=ao).
 
 If your institution provides access to the papers, please download them from the websites linked with the authors' names. This helps with my stats.
@@ -55,7 +54,7 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
     -   The data is publicly available [here](https://www.unidata.unimib.it/?indagine=inferenze-politiche-da-elementi-apolitici-il-caso-del-cibo-in-italia-2023).
 
     -   Part of the replication code is available [here](https://github.com/gaetanoscaduto/FFPT).
-    
+
     -   Slideshow available <i class="fas fa-download pr-1 fa-fw"></i> [here](presentations/FFPT_presentation.pdf){target="_blank"}.
 
     -   If you cannot access the paper, you can click <i class="fas fa-download pr-1 fa-fw"></i> [here](publications/manuscript%20versions/FFPT_unformatted.pdf){target="_blank"} for an unformatted version.
@@ -64,11 +63,9 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
 
 -   [Mancosu, M., Scaduto, G. (2024).](https://www.tandfonline.com/doi/full/10.1080/15205436.2024.2351980)"Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders during the Covid-19 Pandemic". Mass Communication & Society. *Mass Communication and Society*, 1-26.
 
-    -   Slideshow available <i class="fas fa-download pr-1 fa-fw"></i> [here](presentations/CoS_presentation.pdf){target="_blank"}. 
-    
-    - If you cannot access the paper, you can click <i class="fas fa-download pr-1 fa-fw"></i> [here](publications/manuscript%20versions/CoS_unformatted.pdf){target="_blank"} for an unformatted version.
-    
-       
+    -   Slideshow available <i class="fas fa-download pr-1 fa-fw"></i> [here](presentations/CoS_presentation.pdf){target="_blank"}.
+
+    -   If you cannot access the paper, you can click <i class="fas fa-download pr-1 fa-fw"></i> [here](publications/manuscript%20versions/CoS_unformatted.pdf){target="_blank"} for an unformatted version.
 
 <!--         <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Mancosu_Scaduto_2024.pdf target=_blank> Click here to download</a>.</p> -->
 
@@ -90,15 +87,23 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
 
 <!--         <p><i class="fas fa-download pr-1 fa-fw"></i><a href=publications/Scaduto_2022.pdf target=_blank> Click here to download</a>.</p> -->
 
-## Working papers/Under review
+## Under review
 
--   Scaduto, G., Negri, F. Exploring the factors associated with political inferences from food preferences.
+-   Decadri, S., Mancosu, M., Negri, F., Scaduto, G. A comparative analysis of the visual and textual strategies of European politicians on Instagram. R&R in International Journal of Press/Politics.
 
-    -   Accepted for presentation at ECPR 2023 General Conference, AssoComPol 2023 Conference, SISP 2023 Conference. My first experimental paper dealing with why we think vegans are leftists and stuff like that.
+-   Respi, C., Gui, M., Legnante, G., Scaduto, G., Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). R&R in Social Science Computer Review.
 
--   Respi, C., Gui, M., Legnante, G., Pizzul, D., Gerosa, T., Scaduto, G. & Serini, M. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
+## Working Papers
 
-    -   Presented at VDATA Final Conference in Pavia (IT), 7-8 September 2023. I am working ion the results section of this paper. It is my first experience with doing structural equation modeling. I don't think it will be the last :)
+-   Scaduto, G., Negri, F., Decadri, S. Talk the Talk, Walk the Walk: How Apolitical Similarities Affect Political Conversations. A Dynamic Parallel Conjoint Experiment in Four EU Countries.
+
+-   Decadri, S, Negri, F., Scaduto, G. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
+
+-   Decadri, S., Negri, F., Scaduto, G. A Visual Conjoint Experiment on Ideological Inferences from Politicians’ Instagram Profiles.
+
+-   Goovaerts, I., Tsoulou-Malakoudi, A., Scaduto, G., Lefevere, J., Feitosa, F. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
+
+-   Tsoulou-Malakoudi, A., Goovaerts, I., Scaduto, G., Van Erkel, P., Walgrave, S. How similar or different do citizens perceive in- and out-party supporters with regard to non-political traits in multi-party systems?
 
 ## Other stuff I wrote
 
@@ -115,5 +120,4 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
     -   A super-duper-looper long article about [my fake troll run for school council in 2016](https://nienteditwee.blogspot.com/2016/10/).
 
 -   In April 2024 I gave a recreational presentation about "Fermat's Last Theorem" at the M2P Staff Meeting (University of Antwerp). You can find the slides, summarizing the story, [here](https://github.com/gaetanoscaduto/other-stuff/blob/main/Fermat%E2%80%99s%20Last%20Problem%20(2).pdf).
-
-::: 
+:::
