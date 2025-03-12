@@ -33,7 +33,7 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
 
     -   Slideshow available <i class="fas fa-download pr-1 fa-fw"></i> [here](presentations/PL_presentation.pdf){target="_blank"}.
 
--   [Scaduto, G, Negri, F. (2024)](https://www.rivisteweb.%20it/doi/10.3270/115244). The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Comunicazione Politica.
+-   [Scaduto, G, Negri, F. (2024)](https://www.rivisteweb.it/doi/10.3270/115244). The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Comunicazione Politica.
 
     -   You can find a ShinyApp to play with the data from this project [here](https://gaetanoscaduto.shinyapps.io/talkshows/).
 
@@ -45,7 +45,7 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
 
 <!-- -->
 
--   [Scaduto, G., Negri, F. (2024)](https://doi.org/10.%201080/13608746.2024.2411539). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. South European Society and Politics, 1–30.
+-   [Scaduto, G., Negri, F. (2024)](https://www.tandfonline.com/doi/full/10.1080/13608746.2024.2411539). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. South European Society and Politics, 1–30.
 
     -   Awarded "Best paper by a Junior Researcher" by the Italian Political Communication Association (ASSOCOMPOL) in 2024.
 
@@ -100,6 +100,8 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
 -   Decadri, S, Negri, F., Scaduto, G. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
 
 -   Decadri, S., Negri, F., Scaduto, G. A Visual Conjoint Experiment on Ideological Inferences from Politicians’ Instagram Profiles.
+
+    -   Slideshow available <i class="fas fa-download pr-1 fa-fw"></i> [here](presentations/VC_presentation.pdf){target="_blank"}.
 
 -   Goovaerts, I., Tsoulou-Malakoudi, A., Scaduto, G., Lefevere, J., Feitosa, F. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
 
