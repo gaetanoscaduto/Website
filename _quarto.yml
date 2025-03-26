@@ -9,7 +9,7 @@ website:
         text: Home
       - bio.qmd
       - cv.qmd
-      - research.qmd
+      #- research.qmd
       - publications.qmd
       - teaching.qmd
       - In the media.qmd
