@@ -21,7 +21,9 @@ title: "Publications"
 ```
 
 ::: text-background
-Here you can find the list of the papers I worked on. If you need further info, just reach out and I'll be happy to share more! You can also find the most updated list of my publications on [my profile in google scholar](https://scholar.google.it/citations?user=g52GJngAAAAJ&hl=it&oi=ao).
+Here you can find the list of the papers I worked on. If you need further info, just reach out and I'll be happy to share more!
+
+Notice that this might not be an updated list. The most updated list of my publications on is always available in [my CV](https://gaetanoscaduto.quarto.pub/home/academic_cv.pdf).
 
 If your institution provides access to the papers, please download them from the websites linked with the authors' names. This helps with my stats.
 
@@ -41,7 +43,7 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
 
     -   Slideshow available <i class="fas fa-download pr-1 fa-fw"></i> [here](presentations/PP_presentation.pdf){target="_blank"}.
 
-    -   If you cannot access the paper, you can click <i class="fas fa-download pr-1 fa-fw"></i> [here](publications/manuscript%20versions/Pundit_paradox_unformatted.pdf){target="_blank"} for an unformatted version.
+    -   If you cannot access the paper, you can click <i class="fas fa-download pr-1 fa-fw"></i> [here](pundit_paradox.pdf) for an unformatted version.
 
 <!-- -->
 
