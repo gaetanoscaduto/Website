@@ -36,14 +36,11 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
     -   Slideshow available <i class="fas fa-download pr-1 fa-fw"></i> [here](presentations/PL_presentation.pdf){target="_blank"}.
     -   Preprint available [here](https://osf.io/preprints/socarxiv/zvcx2_v1).
 
--   [Decadri, S., Mancosu, M., Negri, F., Scaduto, G.](https://doi.org/10.1177/19401612251339107) Aligning Emotions: A Comparative Analysis of Text and Imagery by European Party Leaders on Instagram. The International Journal of
-    Press/Politics.
+-   [Decadri, S., Mancosu, M., Negri, F., Scaduto, G.](https://doi.org/10.1177/19401612251339107) Aligning Emotions: A Comparative Analysis of Text and Imagery by European Party Leaders on Instagram. The International Journal of Press/Politics.
 
     -   Yet one another of my "communication" stream of research around politicians' Instagram profile content
 
--   [Respi, C., Gui, M., Scaduto, G., Serini, M., Pizzul, D., Gerosa, T., & Lutz, C. (2024).](https://doi.org/10.1177/ 08944393251341201) Lower
-    Cynicism, Not Higher Literacy, Promotes Protective Behavior: Exploring the “privacy exception”
-    in the Digital Inequality Framework. Social Science Computer Review.
+-   [Respi, C., Gui, M., Scaduto, G., Serini, M., Pizzul, D., Gerosa, T., & Lutz, C. (2024).](https://doi.org/10.1177/%2008944393251341201) Lower Cynicism, Not Higher Literacy, Promotes Protective Behavior: Exploring the “privacy exception” in the Digital Inequality Framework. Social Science Computer Review.
 
     -   A paper about the factors affecting privacy protection behavior online, linked to the "VDATA" project I collaborated with in 2023. In this aper, I dealt with the analysis together with Tiziano Gerosa, using structural equation models (with lavaan!). Super fun!
 
@@ -103,17 +100,13 @@ If you do not have access, please reach out via email (gaetano.scaduto\@unimib.i
 
 ## Under review
 
--   Scaduto, G., Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect
-    Political Conversations. A Cross-Country Dynamic Parallel Experiment. Under review in Political
-    Behavior.
+-   Scaduto, G., Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. A Cross-Country Dynamic Parallel Experiment. Under review in Political Behavior.
 
     -   Preprint available [here](https://osf.io/preprints/socarxiv/6j8nr_v1).
 
--   Tsoulou-Malakoudi, A., Goovaerts, I., Scaduto, G., Van Erkel, P., Walgrave, S. Political others are
-    perceived as non-politically different. Under review in European Journal of Political Research.
+-   Tsoulou-Malakoudi, A., Goovaerts, I., Scaduto, G., Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. Under review in European Journal of Political Research.
 
--   Decadri, S., Negri, F., Scaduto, G. Visual Conjoint Experiments in Social-Scientific Research: A
-    Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Submitted.
+-   Decadri, S., Negri, F., Scaduto, G. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Submitted.
 
 ## Working Papers
 

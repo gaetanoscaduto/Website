@@ -21,13 +21,11 @@ title: "Welcome!"
 ```
 
 ::: text-background
-Hi! My name is Gaetano Scaduto, I am 26 years old and this is my personal website.
+Hi! My name is Gaetano Scaduto, I am 26 years old, I come from Sicily, and I live in Antwerp (Belgium).
 
-I am currently a PhD Student researching in social science. I use my professional skills to study society and politics through **quantitative** and **computational** methods, while also having rigorous training in qualitative methods.
+I am currently a PhD Student researching in social science. I use my professional skills to study society and politics through **quantitative** and **computational** methods, while also having rigorous training in qualitative methods. I have also worked in **political marketing**, contributing to multiple national electoral campaigns in Italy.
 
-I have also worked in **political marketing**, contributing to multiple national electoral campaigns in Italy.
-
-I am currently **open for work**, and I am particularly interested in positions involving **survey research**. If you want to discuss job opportunities, please get in touch at gaetanoscaduto1999\@gmail.com
+From October 2025, I will join the **Erasmus Institute on Culture and Stratification** at the **Erasmus University of Rotterdam** for a postdoc position on a project on climate change perceptions.
 
 In this site you can find my CV, bio, publications, teaching materials, and other random stuff I decided to put here ;)
 :::
