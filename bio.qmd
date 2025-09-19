@@ -21,10 +21,9 @@ title: "Bio"
 ```
 
 ::: text-background
-
 **Last updated: January 2025**
 
-I was born on February 25th, 1999 in Agrigento, a small city in Sicily. The very same night, [Fabio Fazio interviewed Mikhail Gorbachev at the Festival di Sanremo](https://www.youtube.com/watch?v=UZh8m3KygBY). 
+I was born on February 25th, 1999 in Agrigento, a small city in Sicily. The very same night, [Fabio Fazio interviewed Mikhail Gorbachev at the Festival di Sanremo](https://www.youtube.com/watch?v=UZh8m3KygBY).
 
 ![The Concordia Temple, the most famous landmark in my hometown (also a UNESCO world heritage site)](Tempio-della-Concordia-930x620.jpg){fig-align="center" width="323"}
 
@@ -36,12 +35,15 @@ I attended the "Empedocle" classical high school in Agrigento, wanting to be a w
 
 But then I got bored of doing maths for maths' sake. I enrolled in a Master's degree in **Political and Public Communication** at the University of Turin where I graduated in 2022.
 
-I am currently enrolled in the PhD program of **Analysis of Social and Economic Processes** (ASEP) at the University of Milan-Biccocca. During my Ph.D. I have also been a teaching assistant in the courses of Mathematics and Public Policies in the Bachelor's of Organization Sciences (UNIMIB). Since February 2024 I live in Antwerp (BE), working with the "[Media, Movement, and Politics (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/)". It started as a research stay, but it became my life, and now I'm based in Antwerp until further notice. 
+I am currently enrolled in the PhD program of **Analysis of Social and Economic Processes** (ASEP) at the University of Milan-Bicocca. During my Ph.D. I have also been a teaching assistant in the courses of Mathematics and Public Policies in the Bachelor's of Organization Sciences (UNIMIB). Since February 2024 I live in Antwerp (BE), working with the "[Media, Movement, and Politics (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/)". It started as a research stay, but it became my life, and now I'm based in Antwerp until further notice.
 
 ![The entrance to the Antwerp train station, one of its most famous landmarks](images/clipboard-3574034271.png){width="323"}
+
+From October 2025, I will be starting a new adventure at the [Erasmus Institute on Culture and Stratification](https://www.eur.nl/essb/informatie-voor/onderzoekers/erasmus-institute-culture-and-stratification) within the Erasmus University in Rotterdam (EUR). There, I will be working on a project named "Understanding the different meanings of climate change among the public". The new challanges that I will face will include using qualitative methods, delving into a new research field, and into a new research community. I really look forward to it!
+
+![The view Rotterdam from EUR](images/rotterdam.jpeg)
 
 Through the years I have also worked outside academia, in the **political communication and marketing** fields, managing social media pages and media relations for political organizations and working for electoral campaigns as deputy campaign coordinator and junior researcher during the Italian general political elections in 2022.
 
 In my free time I still love **writing** and **learning languages**. I am currently learning **Dutch**, which helps me to integrate more in Belgian society. After that, I plan to refresh my French as well. I also love **biking**, and listening to music of every genre. My all-time favorites? The Cure, Fabrizio De André, and Elio e le Storie Tese. My favorite directors are Paolo Sorrentino and Wes Anderson (but I swear I am not *that* kind of hipster). My favorite TV show is probably Scrubs because it's the only comedy show that I still find amusing after 20 years from its release. I am a huge fan of stand-up comedy.
-
 :::
