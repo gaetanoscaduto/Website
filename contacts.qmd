@@ -22,11 +22,13 @@ title: "Contacts"
 ::: text-background
 Here are my contacts:
 
--   For matters related to my job, you can write me an email at **scaduto\@essb.eur.nl**
+-   Write me an email at **scaduto\@essb.eur.nl**
 
--   You can follow me on Linkedin [here](https://www.linkedin.com/in/gaetano-scaduto-92b6981ba/).
+-   [Linkedin](https://www.linkedin.com/in/gaetano-scaduto-92b6981ba/).
 
--   You can follow me on ResearchGate [here](https://www.researchgate.net/profile/Gaetano-Scaduto).
+-   [Bluesky](https://bsky.app/profile/gaetanoscaduto.bsky.social)
 
--   You can follow me on GitHub [here](https://github.com/gaetanoscaduto).
+-   [ResearchGate](https://www.researchgate.net/profile/Gaetano-Scaduto).
+
+-   [GitHub](https://github.com/gaetanoscaduto).
 :::

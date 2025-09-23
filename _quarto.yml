@@ -7,13 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - bio.qmd
-      - cv.qmd
       - research.qmd
+      - cv.qmd
       - publications.qmd
       - teaching.qmd
       - In the media.qmd
-      - beyond.qmd 
+      #- beyond.qmd 
       - contacts.qmd
     tools: 
       - icon: github

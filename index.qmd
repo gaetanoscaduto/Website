@@ -64,19 +64,19 @@ On this site, you can find my CV, bio, publications, teaching materials, and som
 
 :::::: grid
 ::: card
-#### [**Read my work**](/home/publications.qmd)
+#### [**Read my work**](/publications.qmd)
 
 Browse publications, slides, and preprints.
 :::
 
 ::: card
-#### [**Check My CV**](/home/cv.qmd)
+#### [**Check My CV**](/cv.qmd)
 
 Latest academic and industry CVs.
 :::
 
 ::: card
-#### [**Contact**](/home/contacts.qmd)
+#### [**Contact**](/contacts.qmd)
 
 Reach out!
 :::
