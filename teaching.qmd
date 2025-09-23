@@ -21,25 +21,29 @@ title: "Teaching"
 ```
 
 ::: text-background
-
--   I am currently a teaching assistant (tutor) in the course of Public Policies and in the course of Mathematics at the University of Milan-Bicocca (BA in Organization Science). In the latter, I teach first-year students basic calculus, from equations to the full study of functions, plus an introduction to statistics.
-
 Here you can find the teaching materials that I produced so far.
 
 -   A brief and smooth [Introduction to R](https://github.com/gaetanoscaduto/Laboratorio-R) course (in Italian).
 
 <!-- -->
 
--   In autumn 2023 I held two classes.
+-   In autumn 2023 I held two classes with students from the BA in Organization Sciences at the University of Milan-Bicocca.
 
-    -   In one, I gave the students a practical introduction to the statistical software R for the analysis of electoral data. The class was aimed at people enrolled in the BA in "Organization Science" at the University of Milan-Bicocca, who had no previous experience neither with any statistical software nor data analysis. They had taken an introductory class in statistics and quantitative methods. You can find the teaching materials related to this class [here](https://github.com/gaetanoscaduto/teaching/tree/main/introduzioneR).
-    
-    -   On the other, I held a class in the course of Public Policies where I explained the problems with collective decision-making. The main topics were Condorcet's paradox, strategic misreporting, and the Arrow's theorem. You can find the slides [here](https://github.com/gaetanoscaduto/teaching/tree/main/CondorcetPP).
+    -   A practical introduction to the statistical software R for the analysis of electoral data.
 
--   In spring 2023 I held two classes in the course of Public Policies with students from the BA in Organization Sciences at the University of Milan-Bicocca.
+        -   Teaching material is available [here](https://github.com/gaetanoscaduto/teaching/tree/main/introduzioneR).
 
-    -   In one, I presented the research I was currently working on, while also trying to make students familiar with the various concepts of **political polarization** and the state of the art regarding research on political inferences from apolitical cues. You can download the slides [here](teaching_materials/Polarizzazione.pdf).
+    -   A class on the problems with collective decision-making: Condorcet's paradox, strategic misreporting, and Arrow's theorem.
 
-    -   In the other, I presented the students an introduction to linear regression. The focus here was on giving them a general idea of what linear regression is and, expecially, how to read linear regression tables, interpreting coefficients, standard errors, and p-values. You can download the material I produced (a medium-length document presenting the general topic) [here](teaching_materials/Dispensa_regressione.pdf).
+        -   You can find the slides [here](https://github.com/gaetanoscaduto/teaching/tree/main/CondorcetPP).
 
-::: 
+-   In spring 2023, I held two classes with students from the BA in Organization Sciences at the University of Milan-Bicocca.
+
+    -   In one, I presented the research on **political polarization** and the state of the art regarding research on political inferences from apolitical cues.
+
+        -   You can download the slides [here](teaching_materials/Polarizzazione.pdf).
+
+    -   In the other, I presented the students an introduction to linear regression.
+
+        -   You can download the material I produced (a medium-length document presenting the general topic) [here](teaching_materials/Dispensa_regressione.pdf).
+:::

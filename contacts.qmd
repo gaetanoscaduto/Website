@@ -22,9 +22,7 @@ title: "Contacts"
 ::: text-background
 Here are my contacts:
 
--   For matters related to my job, you can write me an email at the following address: gaetano.scaduto\@unimib.it
-
--   For non-job-related matters, you can write me an email at gaetanoscaduto1999\@gmail.com
+-   For matters related to my job, you can write me an email at **scaduto\@essb.eur.nl**
 
 -   You can follow me on Linkedin [here](https://www.linkedin.com/in/gaetano-scaduto-92b6981ba/).
 

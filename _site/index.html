@@ -127,14 +127,14 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -153,26 +153,70 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+
 <style>
   body {
-  background-image: url("./backgrounds/background_ag1.jpeg");
-  background-attachment: fixed;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-  
-.text-background {
-    background-color: rgba(256, 256, 256, 0.6); 
-    color: black; /* White text for contrast */
-    padding: 5px 10px; /* Padding around text */
-    display: inline-block; /* Ensures the background only takes up necessary space */
-}
+    background-image: url("./backgrounds/background_ag1.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  /* intro callout */
+  .text-background {
+    background-color: rgba(255, 255, 255, 0.6);
+    color: black;
+    padding: 5px 10px;
+    display: inline-block;
+  }
+
+  /* make the cards transparent and slightly wider */
+  .grid > .card {
+    background-color: rgba(255, 255, 255, 0.6); /* transparency */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);    /* optional soft shadow */
+    border: none;
+    padding: 1rem;
+    border-radius: 12px;
+  }
+
+  /* widen the grid container itself */
+  .grid {
+    max-width: 1200px;     /* adjust as needed */
+    margin-left: auto;
+    margin-right: auto;
+    gap: 1.5rem;           /* spacing between cards */
+  }
+
+  /* responsive columns: 1 on phone, 2 on tablet, 3 on desktop */
+  @media (max-width: 640px) {
+    .grid { grid-template-columns: 1fr; }
+  }
+  @media (min-width: 641px) and (max-width: 1024px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (min-width: 1025px) {
+    .grid { grid-template-columns: repeat(3, 1fr); }
+  }
 </style>
 <div class="text-background">
 <p>Hi! My name is Gaetano Scaduto, I am 26 years old, I come from Sicily, and I live in Antwerp (Belgium).</p>
-<p>I am currently a PhD Student researching in social science. I use my professional skills to study society and politics through <strong>quantitative</strong> and <strong>computational</strong> methods, while also having rigorous training in qualitative methods. I have also worked in <strong>political marketing</strong>, contributing to multiple national electoral campaigns in Italy.</p>
-<p>From October 2025, I will join the <strong>Erasmus Institute on Culture and Stratification</strong> at the <strong>Erasmus University of Rotterdam</strong> for a postdoc position on a project on climate change perceptions.</p>
-<p>In this site you can find my CV, bio, publications, teaching materials, and other random stuff I decided to put here ;)</p>
+<p>I am currently a PhD Candidate researching in social science. I use my professional skills to study society and politics through <strong>survey experiments</strong>, <strong>statistical modelling,</strong> and <strong>computational methods.</strong> I consider my research interests broad and interdisciplinary, ranging from political sociology to social psychology and communications.</p>
+<p>From October 2025, I will join the <strong>Erasmus Institute on Culture and Stratification</strong> at the <strong>Erasmus University of Rotterdam</strong> for a postdoc position on the project “Understanding the different meanings of climate change among the public”.</p>
+<p>On this site, you can find my CV, bio, publications, teaching materials, and some personal material I decide to share!</p>
+</div>
+<div class="grid">
+<section id="read-my-work" class="level4 card">
+<h4 class="anchored" data-anchor-id="read-my-work"><a href="./home/publications.qmd"><strong>Read my work</strong></a></h4>
+<p>Browse publications, slides, and preprints.</p>
+</section>
+<section id="check-my-cv" class="level4 card">
+<h4 class="anchored" data-anchor-id="check-my-cv"><a href="./home/cv.qmd"><strong>Check My CV</strong></a></h4>
+<p>Latest academic and industry CVs.</p>
+</section>
+<section id="contact" class="level4 card">
+<h4 class="anchored" data-anchor-id="contact"><a href="./home/contacts.qmd"><strong>Contact</strong></a></h4>
+<p>Reach out!</p>
+</section>
 </div>
 <p><img src="images/IMG_0615-01.jpg" class="img-fluid"></p>
 
