@@ -189,12 +189,45 @@ ul.task-list li input[type="checkbox"] {
   @media (min-width: 1025px) {
     .grid { grid-template-columns: repeat(3, 1fr); }
   }
+  
+  /* Mobile fixes */
+  @media (max-width: 640px) {
+    /* Make the intro box use the full width on phones */
+    .text-background {
+      display: block;       /* was inline-block */
+      width: 100%;
+      box-sizing: border-box;
+      padding: 10px 12px;   /* keep the nice padded look */
+    }
+
+    /* Let each column take the full width when stacked */
+    .columns > .column {
+      width: 100% !important;
+    }
+
+    /* Center and size the photo nicely on mobile */
+    .hero-photo {
+      display: block;
+      margin: 0.5rem auto 1rem;                 /* center */
+      width: clamp(220px, 70vw, 360px);         /* responsive width */
+      height: auto;
+    }
+  }
+
 </style>
 <div class="text-background">
-<p>Hi! My name is Gaetano Scaduto, I am 26 years old, I come from Sicily, and I live in Antwerp (Belgium).</p>
-<p>I am currently a PhD Candidate researching in social science. I use my professional skills to study society and politics through <strong>survey experiments</strong>, <strong>statistical modelling,</strong> and <strong>computational methods.</strong> I consider my research interests broad and interdisciplinary, ranging from political sociology to social psychology and communications.</p>
-<p>From October 2025, I will join the <strong>Erasmus Institute on Culture and Stratification</strong> at the <strong>Erasmus University of Rotterdam</strong> for a postdoc position on the project “Understanding the different meanings of climate change among the public”.</p>
-<p>On this site, you can find my CV, bio, publications, teaching materials, and some personal material I decide to share!</p>
+<div class="columns">
+<div class="column" style="width:62%;">
+<div class="text-background">
+<p>Hi! My name is Gaetano Scaduto, I am 26 years old, I come from Agrigento, Sicily (see background!), and I live in Antwerp (Belgium).</p>
+<p>I am a postdoctoral researcher at the <a href="https://www.eur.nl/en/essb/research/erasmus-institute-culture-and-stratification/researchers">Erasmus Institute on Culture and Stratification</a>, part of the <a href="https://www.eur.nl/en/essb/about-essb/academic-teams/governance-and-pluralism">Governance and Pluralism</a> team at Erasmus University of Rotterdam. I work on the project “<a href="https://www.nwo.nl/en/projects/domyz32585">Understanding the different meanings of climate change among the public</a>”, a comparative, mixed-methods project aiming at understanding the different meanings attributed to climate change in the Netherlands and Italy.</p>
+<p>I consider my research interests broad and interdisciplinary, ranging from political sociology to social psychology and communications. In the past, I’ve worked on several topics, such as <a href="https://www.tandfonline.com/doi/abs/10.1080/13608746.2024.2411539">political stereotypes</a>, <a href="https://journals.sagepub.com/doi/10.1177/19401612251339107?int.sj-full-text.similar-articles.9">politicians’ communication online</a>, <a href="https://doi.org/10.1177/%2008944393251341201">privacy protection behavior online</a>, and <a href="https://www.rivisteweb.it/doi/10.%203270/115244">political talk show pundits in Italy</a>.</p>
+<p>On this website, you can find my CV, bio, publications, teaching materials, and some personal material I decide to share!</p>
+</div>
+</div><div class="column" style="width:38%;">
+<p><img src="images/WhatsApp Image 2025-10-16 at 16.40.45.jpeg" class="hero-photo img-fluid" width="340"></p>
+</div>
+</div>
 </div>
 <div class="grid">
 <section id="read-my-work" class="level4 card">
@@ -210,7 +243,6 @@ ul.task-list li input[type="checkbox"] {
 <p>Reach out!</p>
 </section>
 </div>
-<p><img src="images/IMG_0615-01.jpg" class="img-fluid"></p>
 
 
 

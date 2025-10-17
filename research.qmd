@@ -36,11 +36,11 @@ I attended the "Empedocle" classical high school in Agrigento, wanting to be a w
 
 ## Northern Italy
 
-At the age of 18, I moved to Turin, where I earned a Bachelor's degree in **Mathematics for Engineering** with top marks at the Polytechnic of Turin.
+At the age of 18, I moved to Turin, where I earned a Bachelor's degree in **Mathematics for Engineering** with final grade of 110/110 at the Polytechnic of Turin.
 
 ![The city of Turin, which adopted me during my university years](e715e7dd9599f54e9c2780ac9a2cf439.jpg){fig-align="center" width="323"}
 
-But then I grew tired of doing maths for its own sake. I enrolled in a Master's degree in **Political and Public Communication** at the University of Turin, from which I graduated in 2022.
+But then, I grew tired of doing maths for its own sake. I enrolled in a Master's degree in **Political and Public Communication** at the University of Turin, from which I graduated with 110/110 cum laude in 2022.
 
 During the summer of 2022, I worked for a political marketing firm, managing electoral campaigns as a deputy campaign coordinator and junior researcher during the 2022 Italian general elections. 
 
@@ -48,21 +48,23 @@ I then enrolled in the PhD program of **Analysis of Social and Economic Processe
 
 ## Low Countries
 
-Since February 2024, I have been living in Antwerp (Belgium), working with the "[Media, Movement, and Politics (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/)". It started as a research stay, but it became my life, and now I'm based in Antwerp until further notice.
+Since February 2024, I have been living in Antwerp (Belgium), working with the "[Media, Movement, and Politics (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/)". It started as a research stay, but it ended up becoming my life, and now I'm based in Antwerp until further notice.
 
 ![The entrance to the Antwerp train station, one of its most famous landmarks](images/clipboard-3574034271.png){width="323"}
 
-From October 2025, I will be starting a new adventure at the [Erasmus Institute on Culture and Stratification](https://www.eur.nl/essb/informatie-voor/onderzoekers/erasmus-institute-culture-and-stratification) within Erasmus University Rotterdam (EUR). There, I will be working on a project called "Understanding the different meanings of climate change among the public". The new challenges that I will face include using qualitative methods, exploring a new research field, and joining a new research community. I really look forward to it!
+From I started a new adventure at the [Erasmus Institute on Culture and Stratification](https://www.eur.nl/essb/informatie-voor/onderzoekers/erasmus-institute-culture-and-stratification) within Erasmus University Rotterdam (EUR). I work on a project named "Understanding the different meanings of climate change among the public". The new challenges that I will face include using qualitative methods, exploring a new research field, and joining a new research community. I really look forward to it!
 
 ![The view of Rotterdam from EUR](images/rotterdam.jpeg){width="323"}
 
 
-In my free time, I still love **writing** and **learning languages**. I am currently learning **Dutch**, which helps me integrate more easily into Belgian society. After that, I plan to refresh my French as well. I also love **biking** and listening to music of every genre. My all-time favorites? The Cure, Fabrizio De André, and Elio e le Storie Tese. My favorite directors are Paolo Sorrentino and Wes Anderson (but I swear I'm not *that* kind of hipster). My favorite TV show is probably *Scrubs* because it remains the only comedy series I still find amusing more than 20 years after its release. I am a huge fan of stand-up comedy.
+In my free time, I still love **writing** and **learning languages**. I am currently learning **Dutch**, which helps me a lot given that I live in Flanders and work in the Netherlands.
+
+I also love **biking** and listening to music of every genre. My all-time favorites? The Cure, Fabrizio De André, and Elio e le Storie Tese. My favorite directors are Paolo Sorrentino and Wes Anderson (but I swear I'm not *that* kind of hipster). My favorite TV show is probably *Scrubs* because it remains the only comedy series I still find amusing more than 20 years after its release. I am a huge fan of stand-up comedy.
 :::
 
 ::: text-background
 
-# My Research & Me
+# My (PhD) Research & Me
 ## It all started at the canteen...
 
 ![I still ask myself if this picture really makes sense](images/250454928_1277070772812659_5201918329899356277_n-01.jpg){fig-align="center" width="315"}
