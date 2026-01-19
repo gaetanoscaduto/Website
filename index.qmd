@@ -75,27 +75,29 @@ format:
   }
 
 </style>
-```
+``` 
 
+::::::: text-background
+:::::: columns
+:::: {.column width="62%"}
 ::: text-background
-::: {.columns}
-::: {.column width="62%"}
-::: {.text-background}
 Hi! My name is Gaetano Scaduto, I am 26 years old, I come from Agrigento, Sicily (see background!), and I live in Antwerp (Belgium).
 
-I am a postdoctoral researcher at the [Erasmus Institute on Culture and Stratification](https://www.eur.nl/en/essb/research/erasmus-institute-culture-and-stratification/researchers), part of the [Governance and Pluralism](https://www.eur.nl/en/essb/about-essb/academic-teams/governance-and-pluralism) team at Erasmus University of Rotterdam. I work on the project "[Understanding the different meanings of climate change among the public](https://www.nwo.nl/en/projects/domyz32585)", a comparative, mixed-methods project aiming at understanding the different meanings attributed to climate change in the Netherlands and Italy.
+I am a postdoctoral researcher at the Erasmus School of Social and Behavioral Sciences ([ESSB](https://www.eur.nl/essb)), affiliated with the [Erasmus Institute on Culture and Stratification](https://www.eur.nl/en/essb/research/erasmus-institute-culture-and-stratification/researchers), part of the [Governance and Pluralism](https://www.eur.nl/en/essb/about-essb/academic-teams/governance-and-pluralism) team at Erasmus University of Rotterdam. I am also a part of the [M2P research group](https://www.uantwerpen.be/en/research-groups/m2p/) at the department of Political Science at the University of Antwerp.
 
-I consider my research interests broad and interdisciplinary, ranging from political sociology to social psychology and communications. In the past, I've worked on several topics, such as [political stereotypes](https://www.tandfonline.com/doi/abs/10.1080/13608746.2024.2411539), [politicians' communication online](https://journals.sagepub.com/doi/10.1177/19401612251339107?int.sj-full-text.similar-articles.9), [privacy protection behavior online](https://doi.org/10.1177/ 08944393251341201), and [political talk show pundits in Italy](https://www.rivisteweb.it/doi/10. 3270/115244).
+I am currently working on the project "Understanding the different meanings of climate change among the public" ([CLIMEANING](https://www.nwo.nl/en/projects/domyz32585)), a comparative, mixed-methods project aiming at understanding the different meanings attributed to climate change in the Netherlands and Italy. You can visit the Italian website of the project [here](https://gaetanoscaduto.github.io/CLIMEANING/).
+
+I consider my research interests broad and interdisciplinary, ranging from political sociology to social psychology and communications. In the past, I've worked on several topics, such as [political stereotypes](https://www.tandfonline.com/doi/abs/10.1080/13608746.2024.2411539), [politicians' communication online](https://journals.sagepub.com/doi/10.1177/19401612251339107?int.sj-full-text.similar-articles.9), [privacy protection behavior online](https://doi.org/10.1177/%2008944393251341201), and [political talk show pundits in Italy](https://www.rivisteweb.it/doi/10.%203270/115244).
 
 On this website, you can find my CV, bio, publications, teaching materials, and some personal material I decide to share!
 :::
-:::
+::::
 
 ::: {.column width="38%"}
 ![](images/WhatsApp%20Image%202025-10-16%20at%2016.40.45.jpeg){.hero-photo width="340"}
 :::
-:::
-:::
+::::::
+:::::::
 
 :::::: grid
 ::: card

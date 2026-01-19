@@ -19,6 +19,7 @@ title: "About me"
 }
 </style>
 ```
+
 ::: text-background
 **Last updated: January 2025**
 
@@ -32,7 +33,7 @@ I was born on February 25th, 1999, in Agrigento, a small city in Sicily. The ver
 
 When I was a little boy, I wanted to be a comedian. Since then, I have changed my mind hundreds of times about what I wanted to become as an adult.
 
-I attended the "Empedocle" classical high school in Agrigento, wanting to be a writer or something like that. But I quickly got bored and decided to change my path. 
+I attended the "Empedocle" classical high school in Agrigento, wanting to be a writer or something like that. But I quickly got bored and decided to change my path.
 
 ## Northern Italy
 
@@ -42,9 +43,9 @@ At the age of 18, I moved to Turin, where I earned a Bachelor's degree in **Math
 
 But then, I grew tired of doing maths for its own sake. I enrolled in a Master's degree in **Political and Public Communication** at the University of Turin, from which I graduated with 110/110 cum laude in 2022.
 
-During the summer of 2022, I worked for a political marketing firm, managing electoral campaigns as a deputy campaign coordinator and junior researcher during the 2022 Italian general elections. 
+During the summer of 2022, I worked for a political marketing firm, managing electoral campaigns as a deputy campaign coordinator and junior researcher during the 2022 Italian general elections.
 
-I then enrolled in the PhD program of **Analysis of Social and Economic Processes** (ASEP) at the University of Milan-Bicocca. During my Ph.D. I have also served as a **teaching assistant** for Mathematics and Public Policies in the Bachelor's program in Organization Sciences (UNIMIB). 
+I then enrolled in the PhD program of **Analysis of Social and Economic Processes** (ASEP) at the University of Milan-Bicocca. During my Ph.D. I have also served as a **teaching assistant** for Mathematics and Public Policies in the Bachelor's program in Organization Sciences (UNIMIB).
 
 ## Low Countries
 
@@ -56,15 +57,14 @@ From I started a new adventure at the [Erasmus Institute on Culture and Stratifi
 
 ![The view of Rotterdam from EUR](images/rotterdam.jpeg){width="323"}
 
-
 In my free time, I still love **writing** and **learning languages**. I am currently learning **Dutch**, which helps me a lot given that I live in Flanders and work in the Netherlands.
 
 I also love **biking** and listening to music of every genre. My all-time favorites? The Cure, Fabrizio De André, and Elio e le Storie Tese. My favorite directors are Paolo Sorrentino and Wes Anderson (but I swear I'm not *that* kind of hipster). My favorite TV show is probably *Scrubs* because it remains the only comedy series I still find amusing more than 20 years after its release. I am a huge fan of stand-up comedy.
 :::
 
 ::: text-background
-
 # My (PhD) Research & Me
+
 ## It all started at the canteen...
 
 ![I still ask myself if this picture really makes sense](images/250454928_1277070772812659_5201918329899356277_n-01.jpg){fig-align="center" width="315"}
