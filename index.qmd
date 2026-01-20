@@ -81,7 +81,7 @@ format:
 :::::: columns
 :::: {.column width="62%"}
 ::: text-background
-Hi! My name is Gaetano Scaduto, I am 26 years old, I come from Agrigento, Sicily (see background!), and I live in Antwerp (Belgium).
+My name is Gaetano Scaduto, I am 26 years old, I come from Agrigento, Sicily (see background!), and I live in Antwerp (Belgium).
 
 I am a postdoctoral researcher at the Erasmus School of Social and Behavioral Sciences ([ESSB](https://www.eur.nl/essb)), affiliated with the [Erasmus Institute on Culture and Stratification](https://www.eur.nl/en/essb/research/erasmus-institute-culture-and-stratification/researchers), part of the [Governance and Pluralism](https://www.eur.nl/en/essb/about-essb/academic-teams/governance-and-pluralism) team at Erasmus University of Rotterdam. I am also a part of the [M2P research group](https://www.uantwerpen.be/en/research-groups/m2p/) at the department of Political Science at the University of Antwerp.
 
