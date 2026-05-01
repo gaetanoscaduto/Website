@@ -21,7 +21,6 @@ title: "Beyond work"
 ```
 
 ::: text-background
-
 I think life is kind of worthless without good music and movies. Therefore, here I share some of the works of art I am more enthusiastic about. Because I think these things tell about me as much as (maybe more) any research I have done so far. Researching is fun, teaching is fun, but art gives you goosebumps. So here in what follows a selection of my favorite musical albums, movies, TV shows, and the like.
 
 ## A selection of my favorite musical albums
@@ -70,7 +69,7 @@ Lana Del Rey is usually associated either with the Republican Right or the LGBTQ
 
 ![](https://m.media-amazon.com/images/I/71rogUtN9yL._UF1000,1000_QL80_.jpg){width="376"}
 
-This is THE milestone in Italian comedy prog rock ("rock demenziale"). The immortal masterpiece of a band so good that always makes me sing and laugh to the tears. 
+This is THE milestone in Italian comedy prog rock ("rock demenziale"). The immortal masterpiece of a band so good that always makes me sing and laugh to the tears.
 
 **Favorite Track:** John Holmes (Una vita per il cinema)
 
@@ -113,5 +112,4 @@ The first movie that got me passionate about American politics, which then got m
 ![](https://pad.mymovies.it/filmclub/2013/12/076/coverlg_home.jpg){width="376"}
 
 A little bit of a cliché choice for someonefor an Italian working in academia, but I have been a huge fan of this movie from way before I decided to doo a Ph.D.
-
-::: 
+:::

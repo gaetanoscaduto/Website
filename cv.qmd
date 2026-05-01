@@ -10,6 +10,7 @@ resources:
   - europass_cv.pdf
 ---
 
+```{=html}
 <style>
   body {
     background-image: url("/backgrounds/background_ag1.jpeg");
@@ -37,6 +38,7 @@ resources:
     background: #fff;
   }
 </style>
+```
 
 Here you can find the copies and previews of my CVs
 
@@ -46,17 +48,26 @@ Here you can find the copies and previews of my CVs
 
 <p><i class="fas fa-download pr-1 fa-fw"></i><a href="europass_cv.pdf" target="_blank" rel="noopener"> Click here to download my CV in Europass format (last update, spring 2025)</a>.</p>
 
-<div class="text-background"><strong>Preview: Academic CV</strong></div>
-<div class="cv-preview-wrap">
-  <iframe class="cv-frame" src="academic_cv.pdf#view=FitH" title="Academic CV preview" loading="lazy"></iframe>
-</div>
+::: text-background
+<strong>Preview: Academic CV</strong>
+:::
 
-<div class="text-background"><strong>Preview: Industry CV (last update, Spring 2025)</strong></div>
-<div class="cv-preview-wrap">
-  <iframe class="cv-frame" src="industry_cv.pdf#view=FitH" title="Industry CV preview" loading="lazy"></iframe>
-</div>
+::: cv-preview-wrap
+<iframe class="cv-frame" src="academic_cv.pdf#view=FitH" title="Academic CV preview" loading="lazy"></iframe>
+:::
 
-<div class="text-background"><strong>Preview: Europass CV (last update, Spring 2025)</strong></div>
-<div class="cv-preview-wrap">
-  <iframe class="cv-frame" src="europass_cv.pdf#view=FitH" title="Europass CV preview" loading="lazy"></iframe>
-</div>
+::: text-background
+<strong>Preview: Industry CV (last update, Spring 2025)</strong>
+:::
+
+::: cv-preview-wrap
+<iframe class="cv-frame" src="industry_cv.pdf#view=FitH" title="Industry CV preview" loading="lazy"></iframe>
+:::
+
+::: text-background
+<strong>Preview: Europass CV (last update, Spring 2025)</strong>
+:::
+
+::: cv-preview-wrap
+<iframe class="cv-frame" src="europass_cv.pdf#view=FitH" title="Europass CV preview" loading="lazy"></iframe>
+:::
