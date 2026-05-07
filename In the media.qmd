@@ -20,9 +20,7 @@ title: "In the media"
 </style>
 ```
 
-
 ::: text-background
-
 In this section, you can find occurrences where my research has been featured in the media
 
 Radio
@@ -32,6 +30,8 @@ Radio
 
 Online media:
 
+-   ‘“[Bella Ciao! Het begin van het einde voor Meloni?](https://sampol.be/2026/05/bella-ciao-het-begin-van-het-einde-voor-meloni)’. Samenleving & Politiek. May 2026. <p><i class="fas fa-download pr-1 fa-fw"></i><a href="sampol_mei26_scaduto.pdf" target="_blank" rel="noopener"> Read for free here</a>.</p>
+
 -   "[Talk-show politici, lo specchio di un’Italia polarizzata](https://lavoce.info/archives/106804/talk-show-politici-lo-specchio-di-unitalia-polarizzata/)" (with Negri F., in Italian)**.** LaVoce.info. January 2025.
 
 -   '["Ze zijn niet zoals wij": hoe kiezers kijken naar andere kiezers](https://www.sampol.be/2024/12/ze-zijn-niet-zoals-wij-hoe-kiezers-kijken-naar-andere-kiezers)' (with Tsoulou-Malakoudi, A. & Goovaerts, I., in Dutch). Samenleving & Politiek. December 2024.
@@ -39,5 +39,4 @@ Online media:
 -   "[What your menu choice says about your politics](https://theloop.ecpr.eu/what-your-menu-choice-says-about-your-politics/)" (with Negri F.). The Loop. October 2024.
 
 -   "[Dimmi cosa mangi e ti dirò che partito voti](https://lavoce.info/archives/106171/dimmi-cosa-mangi-e-ti-diro-che-partito-voti/)" (with Negri F., in Italian)**.** LaVoce.info. October 2024.
-
-::: 
+:::
