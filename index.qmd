@@ -75,7 +75,7 @@ format:
   }
 
 </style>
-``` 
+```
 
 ::::::: text-background
 :::::: columns
