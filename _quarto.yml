@@ -9,5 +9,5 @@ format:
     theme: cosmo
     include-in-header:
       text: |
-        <meta http-equiv="refresh" content="0; url="https://gaetanoscaduto.github.io/">
+        <meta http-equiv="refresh" content="0; url=https://gaetanoscaduto.github.io/">
         <link rel="canonical" href="https://gaetanoscaduto.github.io/">
