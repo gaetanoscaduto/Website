@@ -55,19 +55,3 @@ Here you can find the copies and previews of my CVs
 ::: cv-preview-wrap
 <iframe class="cv-frame" src="academic_cv.pdf#view=FitH" title="Academic CV preview" loading="lazy"></iframe>
 :::
-
-::: text-background
-<strong>Preview: Industry CV (last update, Spring 2025)</strong>
-:::
-
-::: cv-preview-wrap
-<iframe class="cv-frame" src="industry_cv.pdf#view=FitH" title="Industry CV preview" loading="lazy"></iframe>
-:::
-
-::: text-background
-<strong>Preview: Europass CV (last update, Spring 2025)</strong>
-:::
-
-::: cv-preview-wrap
-<iframe class="cv-frame" src="europass_cv.pdf#view=FitH" title="Europass CV preview" loading="lazy"></iframe>
-:::
