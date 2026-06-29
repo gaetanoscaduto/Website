@@ -3,39 +3,12 @@ project:
 
 website:
   title: "Gaetano Scaduto"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - research.qmd
-      - cv.qmd
-      - publications.qmd
-      - teaching.qmd
-      - In the media.qmd
-      #- beyond.qmd 
-      - contacts.qmd
-    tools: 
-      - icon: github
-        href: https://github.com/gaetanoscaduto
-      - icon: linkedin
-        href: https://www.linkedin.com/in/gaetano-scaduto-92b6981ba/
-      - icon: scholar
-        href: https://scholar.google.com/citations?user=CjeVWvQAAAAJ&hl=it&oi=ao
-      
-        
- 
-      
 
 format:
   html:
     theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
-
-execute:
-  freeze: auto
-
-
-
+    include-in-header:
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://gaetanoscaduto.github.io/
+        <link rel="canonical" href="https://gaetanoscaduto.github.io/">
+        <meta name="robots" content="noindex">
