@@ -22,7 +22,7 @@ title: "Contacts"
 ::: text-background
 Here are my contacts:
 
--   Write me an email at **scaduto\@essb.eur.nl**
+-   Write me an email at **g.scaduto\@tilburguniversity.edu**
 
 -   [Linkedin](https://www.linkedin.com/in/gaetano-scaduto-92b6981ba/).
 
